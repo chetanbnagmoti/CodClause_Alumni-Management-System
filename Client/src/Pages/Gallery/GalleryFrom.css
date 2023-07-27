@@ -1,0 +1,17 @@
+.selected-image {
+    width: 500px; /* Adjust the width as desired */
+    height: 500px; /* Adjust the height as desired */
+    margin: auto; /* Center the image horizontally */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f5f5f5; /* Optional: Add a background color to the container */
+  }
+  
+  .selected-image img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-bottom: 20px;
+    margin-top: 0px;
+  }
+  

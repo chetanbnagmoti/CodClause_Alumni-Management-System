@@ -1,0 +1,21 @@
+.title{
+    
+    font-size: xxx-large;
+    font-weight: 900;
+    color: white;
+   
+}
+
+.go_button{
+    width: 133px;
+    font-size: x-large;
+    font-weight: 900;
+    /* background-color: aqua; */
+}
+
+
+.content{
+    color: green;
+    font-weight: bold;
+    font-size: xxx-large;
+}

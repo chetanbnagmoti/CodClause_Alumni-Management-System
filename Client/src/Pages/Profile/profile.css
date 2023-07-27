@@ -1,0 +1,17 @@
+.card-profile-status img {
+    max-width: 86px;
+    border-radius: 52%;
+    border: 1px solid black;
+}
+
+.email{
+    color: red;
+}
+
+.location{
+    color: blue;
+}
+
+.calender{
+     color: brown; 
+}
